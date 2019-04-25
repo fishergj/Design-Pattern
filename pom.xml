@@ -11,7 +11,8 @@
 
     <modules>
         <module>dp-factory</module>
-        <module>dp-facade</module> <!-- 简单工厂模式 -->
+        <module>dp-facade</module>
+        <module>dp-adapter</module> <!-- 简单工厂模式 -->
     </modules>
 
 

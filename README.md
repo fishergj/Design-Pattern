@@ -50,3 +50,4 @@ GoF将著作中提到的23个设计模式分类：
 实验代码：
 简单工厂： dp-factory
 外观模式： dp-facade
+适配器模式：dp-adapter

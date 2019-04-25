@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/design-pattern.iml" filepath="$PROJECT_DIR$/design-pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/dp-facade/dp-facade.iml" filepath="$PROJECT_DIR$/dp-facade/dp-facade.iml" />
       <module fileurl="file://$PROJECT_DIR$/dp-factory/dp-factory.iml" filepath="$PROJECT_DIR$/dp-factory/dp-factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dp-adapter/dpadapter.iml" filepath="$PROJECT_DIR$/dp-adapter/dpadapter.iml" />
     </modules>
   </component>
 </project>
